@@ -1,0 +1,10 @@
+{
+    "name": "TinyTools.Juicy.Editor",
+    "references": [
+      "TinyTools.Juicy"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}

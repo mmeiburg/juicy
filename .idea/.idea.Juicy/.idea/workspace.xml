@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5aa330ef-0dee-44e5-a7fb-49e5cb1ca89b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3736D7CF-D1F8-45A5-922F-99478CB469E7/e7/ce1d1532/VisualElement.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D19E8A38-5444-4F3D-A5A4-C530527191EF/e9/0fd3282d/Extensions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3736D7CF-D1F8-45A5-922F-99478CB469E7/10/ca8b5790/Toggle.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/1CDF5C2C-C101-4916-9242-B9590B7EBB6B/44/e622f5b4/EventDispatchUtilities.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0AB1665B-648E-4B27-B137-048AEE83C669/eb/e0cf40c9/AudioSource.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3B74787E-5869-4CDD-A2C2-41162159B3B7/96/5eb1303a/EditorGUILayout.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/260EDB3B-6022-4483-A69D-468007A3A49F/8a/74017a57/ResponsiveButtonGroupAttributeDrawer.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D19E8A38-5444-4F3D-A5A4-C530527191EF/16/d3bb3a8b/TweenExtensions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/42A5878C-E129-4030-83AC-CCF18E43363F/75/a16de815/GameObject.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/260EDB3B-6022-4483-A69D-468007A3A49F/2a/8c7d7cda/ToggleGroupAttributeDrawer.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3B74787E-5869-4CDD-A2C2-41162159B3B7/55/691b73e2/SavedBool.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/85151DBD-6AD9-4859-B1B4-9874FA29F9A1/29/4208b7d4/SirenixEditorGUI.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D19E8A38-5444-4F3D-A5A4-C530527191EF/7d/edc8aa0b/ShortcutExtensions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/42A5878C-E129-4030-83AC-CCF18E43363F/3e/b1944315/Material.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/62FFEEB7-EC02-4BEA-B61E-5FBF8D44AC5B/89/b4804ab2/IEnumerator.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/50F55621-A2CA-4F31-A352-83E2979A8BF5/4e/a2fafedc/LogLevel.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/18E606D9-2932-4701-8EBA-A264AC62F70B/96/7121d873/TweenExtensions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/50F55621-A2CA-4F31-A352-83E2979A8BF5/8b/b90d306a/ObjectNames.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/50F55621-A2CA-4F31-A352-83E2979A8BF5/04/b57e3d59/Editor.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/DF727428-C701-4FC6-8287-5023DA2C7982/1d/d19254b0/Node.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/DF727428-C701-4FC6-8287-5023DA2C7982/6e/dc24ae46/TokenNode.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/DF727428-C701-4FC6-8287-5023DA2C7982/ea/2ef83a95/GraphElement.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/42A5878C-E129-4030-83AC-CCF18E43363F/70/46f178c7/Debug.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/351E49E2-A5BF-4FD6-BEAB-B458CE2255F3/d4/e055e298/Enumerable.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/1CDF5C2C-C101-4916-9242-B9590B7EBB6B/0a/4492422d/MouseDownEvent.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/1CDF5C2C-C101-4916-9242-B9590B7EBB6B/8a/44515651/MouseEventBase`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/1D96CE25-7F0E-45FF-836D-157D33FD933D/b5/980d318f/EnumField.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/1CDF5C2C-C101-4916-9242-B9590B7EBB6B/c1/e4e689e4/EventBase`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/68FEA2B4-ED6D-49F7-A226-9F0399BFCD28/b4/e2b75ded/VisualElement.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4D32E560-DD24-4F58-949A-652BD1DB91DC/0b/1bad8629/MinMaxSliderAttribute.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/DF727428-C701-4FC6-8287-5023DA2C7982/b8/1b407a72/ContentZoomer.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7C074160-DD1A-4D91-9B45-B6E4C27A3BAC/e8/e977f718/MemberInfo.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F38C71C8-6AA6-4E29-9D4C-EA9FB7C715E1/d4/06b55805/AddComponentMenu.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/78F1AD0F-25C8-4E3C-A853-E639F50D95F5/b8/ddba79e7/PropertyField.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/50F55621-A2CA-4F31-A352-83E2979A8BF5/90/0865027d/ProjectWindowUtil.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0D2763AD-8235-4FC6-A022-A2846086CA7B/24/99586ced/AnimatorControllerParameter.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/78F1AD0F-25C8-4E3C-A853-E639F50D95F5/5c/2bd10db9/Editor.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D19E8A38-5444-4F3D-A5A4-C530527191EF/64/74bcf7f8/TweenSettingsExtensions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/85151DBD-6AD9-4859-B1B4-9874FA29F9A1/cb/50772254/SirenixGUIStyles.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/1CDF5C2C-C101-4916-9242-B9590B7EBB6B/a9/16a4ccea/EventCallbackFunctor`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0D2763AD-8235-4FC6-A022-A2846086CA7B/50/c99e22aa/AnimatorControllerParameterType.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/85151DBD-6AD9-4859-B1B4-9874FA29F9A1/b5/937ee2ab/GUITabGroup.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/1CDF5C2C-C101-4916-9242-B9590B7EBB6B/54/0ed82711/Button.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/EDE85B10-691A-411F-AA23-9E6306258393/9e/d41cbc94/GUISkin.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/DF727428-C701-4FC6-8287-5023DA2C7982/47/83117ae3/GridBackground.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3B74787E-5869-4CDD-A2C2-41162159B3B7/6d/f24f3fa8/EditorGUIUtility.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/50F55621-A2CA-4F31-A352-83E2979A8BF5/89/8ac3ab99/SerializedProperty.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/42A5878C-E129-4030-83AC-CCF18E43363F/f3/d947ac18/JobHandle.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D19E8A38-5444-4F3D-A5A4-C530527191EF/27/a139d246/Tween.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/Assets/Juicy/Editor/Graph/JuicyGraphCallbacks.cs" />
+      <option value="$PROJECT_DIR$/Assets/Juicy/Editor/Graph/Nodes/StartNode.cs" />
+      <option value="$PROJECT_DIR$/Assets/Juicy/Editor/Graph/Nodes/DebugNodeView.cs" />
+      <option value="$PROJECT_DIR$/Assets/Juicy/Runtime/Graph/Nodes/DebugLogNode.cs" />
+      <option value="$PROJECT_DIR$/Assets/Juicy/Editor/Graph/JuicyGraphView.cs" />
+      <option value="$PROJECT_DIR$/Assets/Juicy/Runtime/Graph/Nodes/PushScale.cs" />
+      <option value="$PROJECT_DIR$/Assets/Juicy/Plugins/com.alelievr.NodeGraphProcessor/Editor/Resources/GraphProcessorStyles/BaseNodeView.uss" />
+      <option value="$PROJECT_DIR$/Assets/Juicy/Demo/Examples/DefaultNodes/Nodes/WaitFrameNode.cs" />
+      <option value="$PROJECT_DIR$/Assets/Juicy/Editor/Graph/JuicyGraphProcessor.cs" />
+      <option value="$PROJECT_DIR$/Assets/Juicy/Runtime/Graph/Nodes/ControlPort.cs" />
+      <option value="$PROJECT_DIR$/Assets/Juicy/Editor/Graph/SerializedPropertyExtensions.cs" />
+      <option value="$PROJECT_DIR$/Assets/Juicy/Editor/Graph/Styles/JuicyGraph.uss" />
+      <option value="$PROJECT_DIR$/Assets/Juicy/Editor/Graph/Resources/Juicy.uss" />
+      <option value="$PROJECT_DIR$/Assets/Juicy/Plugins/com.alelievr.NodeGraphProcessor/Editor/Views/ExposedParameterView.cs" />
+      <option value="$PROJECT_DIR$/Assets/Juicy/Plugins/com.alelievr.NodeGraphProcessor/Runtime/Graph/BaseGraph.cs" />
+      <option value="$PROJECT_DIR$/Assets/Juicy/Runtime/Graph/IControlNode.cs" />
+      <option value="$PROJECT_DIR$/Assets/Juicy/Editor/Graph/JuicyGraphWindow.cs" />
+      <option value="$PROJECT_DIR$/Assets/Juicy/Editor/Graph/JuicyToolbarView.cs" />
+      <option value="$PROJECT_DIR$/Assets/Juicy/Editor/Graph/JuiceEditor.cs" />
+      <option value="$PROJECT_DIR$/Assets/Juicy/Runtime/Graph/Juice.cs" />
+      <option value="$PROJECT_DIR$/Assets/Juicy/Demo/Examples/Scenes/RuntimeGraph/RuntimeGraph.cs" />
+      <option value="$PROJECT_DIR$/Assets/Juicy/Demo/Examples/DefaultNodes/Nodes/PrintNode.cs" />
+      <option value="$PROJECT_DIR$/Assets/Juicy/Runtime/Graph/Nodes/StartNode.cs" />
+      <option value="$PROJECT_DIR$/Assets/Juicy/Editor/Graph/Nodes/JuicyBaseNodeView.cs" />
+      <option value="$PROJECT_DIR$/Assets/Juicy/Editor/Graph/Nodes/StartNodeView.cs" />
+      <option value="$PROJECT_DIR$/Assets/Juicy/Runtime/JuicyFeedback.cs" />
+      <option value="$PROJECT_DIR$/Assets/Juicy/Runtime/Utils/DOTweenShortcutExtentions.cs" />
+      <option value="$PROJECT_DIR$/Assets/Juicy/Runtime/Graph/Nodes/IControlNode.cs" />
+      <option value="$PROJECT_DIR$/Assets/Juicy/Runtime/Graph/Nodes/BaseNodeExtensions.cs" />
+      <option value="$PROJECT_DIR$/Assets/Juicy/Plugins/com.alelievr.NodeGraphProcessor/Editor/Views/ToolbarView.cs" />
+      <option value="$PROJECT_DIR$/Assets/Juicy/Plugins/com.alelievr.NodeGraphProcessor/Editor/GraphInspector.cs" />
+      <option value="$PROJECT_DIR$/Assets/Juicy/Runtime/Graph/JuicyGraphProcessor.cs" />
+      <option value="$PROJECT_DIR$/Assets/Juicy/Plugins/com.alelievr.NodeGraphProcessor/Runtime/Elements/NodePort.cs" />
+      <option value="$PROJECT_DIR$/Assets/Juicy/Runtime/Graph/Nodes/Shader/ShaderKeywords.cs" />
+      <option value="$PROJECT_DIR$/Assets/Juicy/Runtime/Graph/Nodes/JuicyNodeBase.cs" />
+      <option value="$PROJECT_DIR$/Assets/Juicy/Runtime/Graph/Nodes/DelayNode.cs" />
+      <option value="$PROJECT_DIR$/Assets/Juicy/Runtime/Graph/Nodes/DebugNode.cs" />
+      <option value="$PROJECT_DIR$/Assets/Juicy/Runtime/Graph/Nodes/FlashNode.cs" />
+      <option value="$PROJECT_DIR$/Assets/Juicy/Runtime/Graph/Nodes/Time/TimeNode.cs" />
+      <option value="$PROJECT_DIR$/Assets/Juicy/Runtime/Graph/Nodes/Time/DelayNode.cs" />
+      <option value="$PROJECT_DIR$/Assets/Juicy/Runtime/Graph/Nodes/Shader/FlashNode.cs" />
+      <option value="$PROJECT_DIR$/Assets/Juicy/Runtime/Graph/Nodes/Time/TimeDelayNode.cs" />
+      <option value="$PROJECT_DIR$/Assets/Juicy/Runtime/Graph/Nodes/Time/TimeFreezeNode.cs" />
+      <option value="$PROJECT_DIR$/Assets/Juicy/Plugins/com.alelievr.NodeGraphProcessor/Runtime/Elements/ExposedParameter.cs" />
+      <option value="$PROJECT_DIR$/Assets/Juicy/Plugins/com.alelievr.NodeGraphProcessor/Editor/Utils/ExposedParameterDrawer.cs" />
+      <option value="$PROJECT_DIR$/Assets/Juicy/Runtime/Graph/Nodes/PushScaleNode.cs" />
+      <option value="$PROJECT_DIR$/Assets/Juicy/Runtime/Graph/Nodes/Shader/ShaderColorNode.cs" />
+      <option value="$PROJECT_DIR$/Assets/Juicy/Runtime/JuiceVisualScripting.cs" />
+      <option value="$PROJECT_DIR$/Assets/Juicy/Runtime/HealthTest.cs" />
+      <option value="$PROJECT_DIR$/Assets/Juicy/Runtime/DelayUnit.cs" />
+      <option value="$PROJECT_DIR$/Assets/Juicy/Runtime/JuicyFeedbackList.cs" />
+    </changedPaths>
+  </component>
+  <component name="ProjectId" id="1aZafM0PzKWZo0m4rkjNnQKINtc" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="Rider.SolutionExplorerActivator" value="true" />
+    <property name="TWShift.3" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Assets/Juicy/Plugins" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.statistic.project.settings" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5aa330ef-0dee-44e5-a7fb-49e5cb1ca89b" name="Default Changelist" comment="" />
+      <created>1571320546385</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571320546385</updated>
+      <workItem from="1571320548436" duration="403000" />
+      <workItem from="1571320977159" duration="64000" />
+      <workItem from="1571407144137" duration="12424000" />
+      <workItem from="1571477758213" duration="7975000" />
+      <workItem from="1571509844882" duration="6304000" />
+      <workItem from="1571518529668" duration="5354000" />
+      <workItem from="1571569434502" duration="11522000" />
+      <workItem from="1571663134903" duration="4958000" />
+      <workItem from="1571825668332" duration="4691000" />
+      <workItem from="1571944902347" duration="5193000" />
+      <workItem from="1572001038123" duration="4480000" />
+      <workItem from="1572172182203" duration="9332000" />
+      <workItem from="1572269200162" duration="11415000" />
+      <workItem from="1572376113951" duration="434000" />
+      <workItem from="1572422860408" duration="6145000" />
+      <workItem from="1572699050621" duration="8766000" />
+      <workItem from="1572715769682" duration="192000" />
+      <workItem from="1572854893781" duration="19228000" />
+      <workItem from="1573047854692" duration="9747000" />
+      <workItem from="1578387591002" duration="18267000" />
+      <workItem from="1578469090002" duration="25190000" />
+      <workItem from="1578496712872" duration="11615000" />
+      <workItem from="1578556241314" duration="29556000" />
+      <workItem from="1578594557689" duration="4957000" />
+      <workItem from="1578646041372" duration="23724000" />
+      <workItem from="1578684888732" duration="113000" />
+      <workItem from="1580475436607" duration="2089000" />
+      <workItem from="1581021577389" duration="16000" />
+      <workItem from="1581021665650" duration="729000" />
+      <workItem from="1581338615130" duration="1339000" />
+      <workItem from="1581358294778" duration="41000" />
+      <workItem from="1586945674400" duration="404000" />
+      <workItem from="1586946084769" duration="6359000" />
+      <workItem from="1586953726023" duration="3558000" />
+      <workItem from="1586971459927" duration="5765000" />
+      <workItem from="1587019192989" duration="1540000" />
+      <workItem from="1587021605509" duration="29164000" />
+      <workItem from="1587053969807" duration="1805000" />
+      <workItem from="1587062100423" duration="8284000" />
+      <workItem from="1587107202043" duration="3104000" />
+      <workItem from="1587112995471" duration="13262000" />
+      <workItem from="1587138739896" duration="1889000" />
+      <workItem from="1587194580953" duration="3186000" />
+      <workItem from="1587205781521" duration="2183000" />
+      <workItem from="1587221899744" duration="9168000" />
+      <workItem from="1587287455547" duration="2975000" />
+      <workItem from="1587366884826" duration="25441000" />
+      <workItem from="1587450009950" duration="21630000" />
+      <workItem from="1587476452549" duration="9415000" />
+      <workItem from="1587488060924" duration="3054000" />
+      <workItem from="1587540415626" duration="526000" />
+      <workItem from="1587541144672" duration="3964000" />
+      <workItem from="1587551829835" duration="7040000" />
+      <workItem from="1587570818449" duration="7479000" />
+      <workItem from="1587929462091" duration="476000" />
+      <workItem from="1588256398976" duration="5465000" />
+      <workItem from="1590740749363" duration="5754000" />
+      <workItem from="1591703005618" duration="788000" />
+      <workItem from="1592413912413" duration="643000" />
+      <workItem from="1592648761590" duration="5333000" />
+      <workItem from="1617371351348" duration="17025000" />
+      <workItem from="1617452133468" duration="13442000" />
+      <workItem from="1617516359284" duration="5387000" />
+      <workItem from="1617531922378" duration="20447000" />
+      <workItem from="1617603092388" duration="5550000" />
+      <workItem from="1617613324923" duration="14722000" />
+      <workItem from="1618052717236" duration="5027000" />
+      <workItem from="1618115923417" duration="8707000" />
+      <workItem from="1618125135950" duration="220000" />
+      <workItem from="1618137178210" duration="3133000" />
+      <workItem from="1618242911189" duration="2015000" />
+      <workItem from="1618592368240" duration="2141000" />
+    </task>
+    <servers />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Juicy/Plugins/com.alelievr.NodeGraphProcessor/Runtime/Graph/BaseGraph.cs</url>
+          <line>565</line>
+          <properties documentPath="N:\UnityProjects\Juicy\Assets\Juicy\Plugins\com.alelievr.NodeGraphProcessor\Runtime\Graph\BaseGraph.cs" initialLine="522" containingFunctionPresentation="method 'AddExposedParameter'">
+            <startOffsets>
+              <option value="16256" />
+            </startOffsets>
+            <endOffsets>
+              <option value="16339" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
