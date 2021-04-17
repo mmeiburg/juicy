@@ -111,7 +111,7 @@ Almost every effect comes with timing values, like duration, delay and cooldown 
 
 ## Conclusion
 
-With the introduction of `[Serialized References]`, one could find a cleaner solution to adding effects than hiding a multitude of `MonoBehaviours`.
+With the introduction of `[SerializedReferences]`, one could find a cleaner solution to adding effects than hiding a multitude of `MonoBehaviours`.
 
 As mentioned at the beginning, Renaud Forestié was working on his own tool when I started my work and the idea for the topic of my master thesis.
 During the final phase of my thesis he published his tool <a href="https://feedbacks.moremountains.com/">MMFeedbacks</a> in the Unity Asset Store.
