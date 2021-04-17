@@ -49,8 +49,13 @@ Here for example the "Shader" effect. A cool thing about this is that all possib
 ---
 
 If you add a bunch of effect like so, you get the following result
-<img src="https://i.imgur.com/2AvKJrZ.png" alt="Example">
-<img src="https://i.imgur.com/aKZ9pFP.gif" alt="Example gif">
+
+<table style="width:100%">
+  <tr>
+    <td><img src="https://i.imgur.com/2AvKJrZ.png" alt="Example"></td>
+    <td><img src="https://i.imgur.com/aKZ9pFP.gif" alt="Example gif"></td>
+  </tr>
+</table>
 
 ---
 
