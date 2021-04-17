@@ -60,6 +60,8 @@ Or here an example of an `OnHit` feedback in <a href="https://wildwoods.itch.io/
 
 ## Effect List
 
+Almost every effect comes with timing values, like duration, delay and cooldown to change values over time and with an ease.
+
 | Effect        | Description   |
 | ------------- |:-------------:|
 | Animator      | Change animator values (trigger, float ...) |
@@ -69,22 +71,22 @@ Or here an example of an `OnHit` feedback in <a href="https://wildwoods.itch.io/
 | Camera Zoom | Change camera FOV |
 | Event Simple| A single Unity Event |
 | Event Lifetime | Unity Events for the Unity lifecyles (Awake, Start ...)    |
-| Light Color | Change the light color     |
+| Light Color | Change the light color |
 | Light Intensity | Change the light intensity |
-| Object Create | are neat  |
-| Object Fade | are neat  |
-| Object Move | are neat  |
-| Object Punch | are neat  |
-| Object Rotate | are neat  |
-| Object Scale | are neat  |
-| Object Shake | are neat  |
-| Object Tint | are neat  |
-| Particle Create | are neat  |
-| Particle Pooled | are neat  |
-| Screen Flash | are neat  |
-| Shader | are neat  |
-| Time Change | are neat  |
-| Time Freeze | are neat  |
+| Object Create | Creates a Object from a prefab  |
+| Object Fade | Changes the alpha value of an renderer |
+| Object Move | Moves the object  |
+| Object Punch | Punch the object scale to a value and back |
+| Object Rotate | Rotates a object  |
+| Object Scale | Scales an object |
+| Object Shake | Changes objects rotation to a value and back |
+| Object Tint | Tint the objects material base color  |
+| Particle Create | Instantiates a particle from a prefab  |
+| Particle Pooled | Instantiates a pooled particle from a prefab  |
+| Screen Flash | Overlays the screen with a color  |
+| Shader | Effect to change shader properties  |
+| Time Change | Change the time to a value and back  |
+| Time Freeze | Freeze the time |
 
 ## Conclusion
 
@@ -111,9 +113,3 @@ A editor script finds all possible properties and serializes the entered paramet
 <a href="https://1-jar.itch.io/cuddle-waddle">
 <img src="https://img.itch.zone/aW1nLzMxOTk1MTgucG5n/315x250%23c/8bgbl7.png" alt="Cuddle Waddle" width="200" height="150">
 </a>
-
-
-
-
-
-
