@@ -62,7 +62,7 @@ During the final phase of my thesis he published his tool <a href="https://feedb
 At the end of my master's thesis, I came up with an even more designer-friendly way. A Juicy Effect Graph that would consist of fixed assets that could even be reused.
 The following is a work in progress prototype of and effect graph build with the Unity Graph API with the help of <a href="https://github.com/alelievr/NodeGraphProcessor">NodeGraphProcessor</a>.
 
-Over easter I had a little time to create this little prototype (not included here).
+Over easter holidays I had a little time to create this little prototype (not included here).
 The idea is, that you can add parameters to a graph at runtime. Here for example on the right side with the `Juice` component. You can see the component has a reference to a graph asset.
 A editor script finds all possible properties and serializes the entered parameters.
 <img src="https://i.imgur.com/H3qzzyN.png" alt="Feedback List">
