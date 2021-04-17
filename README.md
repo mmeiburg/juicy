@@ -58,6 +58,34 @@ Or here an example of an `OnHit` feedback in <a href="https://wildwoods.itch.io/
 
 ![bnYciEBS0g](https://user-images.githubusercontent.com/46827413/115109240-d98f4500-9f74-11eb-9543-250954730685.gif)
 
+## Effect List
+
+| Effect        | Description   |
+| ------------- |:-------------:|
+| Animator      | Change animator values (trigger, float ...) |
+| Audio Oneshoot  | Instantiates a oneshoot audio |
+| Audio Pooled | Instantiates a pooled audio |
+| Camera Shake | Shakes the camera |
+| Camera Zoom | Change camera FOV |
+| Event Simple| A single Unity Event |
+| Event Lifetime | Unity Events for the Unity lifecyles (Awake, Start ...)    |
+| Light Color | Change the light color     |
+| Light Intensity | Change the light intensity |
+| Object Create | are neat  |
+| Object Fade | are neat  |
+| Object Move | are neat  |
+| Object Punch | are neat  |
+| Object Rotate | are neat  |
+| Object Scale | are neat  |
+| Object Shake | are neat  |
+| Object Tint | are neat  |
+| Particle Create | are neat  |
+| Particle Pooled | are neat  |
+| Screen Flash | are neat  |
+| Shader | are neat  |
+| Time Change | are neat  |
+| Time Freeze | are neat  |
+
 ## Conclusion
 
 With the introduction of `[Serialized References]`, one could find a cleaner solution to adding effects than hiding a multitude of `MonoBehaviours`.
