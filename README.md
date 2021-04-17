@@ -37,7 +37,7 @@ If you press the plus button a new feedback list get created
 
 <img src="https://i.imgur.com/FMjuBxJ.png" alt="Feedback List">
 
-Now you have a total of 24 effects ordered by category at your disposal
+Now you have a total of 24 <a href="https://github.com/mmeiburg/juicy/blob/main/README.md#effect-list">effects</a> ordered by category at your disposal
 <img src="https://i.imgur.com/YcHwFAO.png" alt="Feedbacks">
 
 ---
@@ -59,7 +59,7 @@ If you add a bunch of effect like so, you get the following result
 
 ---
 
-Or here an example of an `OnHit` feedback in <a href="https://wildwoods.itch.io/wildwoods">Wild Woods</a> Here you can also see nicely the grass cutting particle effect is also created with the same system.
+Or here an example of an `OnHit` feedback in <a href="https://wildwoods.itch.io/wildwoods">Wild Woods</a>. Here you can also see nicely the grass cutting particle effect created with the same system.
 
 ![bnYciEBS0g](https://user-images.githubusercontent.com/46827413/115109240-d98f4500-9f74-11eb-9543-250954730685.gif)
 
