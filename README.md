@@ -80,9 +80,9 @@ Almost every effect comes with timing values, like duration, delay and cooldown 
 | Light Intensity | Change the light intensity |
 | Object Create | Creates a Object from a prefab  |
 | Object Fade | Changes the alpha value of an renderer |
-| Object Move | Moves the object  |
-| Object Punch | Punch the object scale to a value and back |
-| Object Rotate | Rotates a object  |
+| Object Move | Moves an object  |
+| Object Punch | Punch an object scale to a value and back |
+| Object Rotate | Rotates an object  |
 | Object Scale | Scales an object |
 | Object Shake | Changes objects rotation to a value and back |
 | Object Tint | Tint the objects material base color  |
