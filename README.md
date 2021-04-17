@@ -14,7 +14,7 @@ And my own pooling solution <a href="https://github.com/mmeiburg/unityPoolboy">P
 
 ---
 
-1. To start with you just have to add `JuicyFeedback` as a field to your script.
+To start with you just have to add `JuicyFeedback` as a field to your script.
 
 ```cs
     public class JuicyFeedbackTest : MonoBehaviour
@@ -31,20 +31,28 @@ And my own pooling solution <a href="https://github.com/mmeiburg/unityPoolboy">P
 ```
 <img src="https://i.imgur.com/hl4OovH.png" alt="Feedback">
 
-2. If you press the plus button a new feedback list get created
+---
+
+If you press the plus button a new feedback list get created
 
 <img src="https://i.imgur.com/FMjuBxJ.png" alt="Feedback List">
 
-3. Now you have a total of 24 effects ordered by category at your disposal
+Now you have a total of 24 effects ordered by category at your disposal
 <img src="https://i.imgur.com/YcHwFAO.png" alt="Feedbacks">
 
-4. For example the "Shader" effect. A cool thing about this is that all possible properties of the shader are automatically listed in a dropdown.
+---
+
+Here for example the "Shader" effect. A cool thing about this is that all possible properties of the shader are automatically listed in a dropdown.
 
 <img src="https://i.imgur.com/OvyVoPJ.png" alt="Feedback Shader">
 
-5. If you add a bunch of effect like so, you can get for example the following result
+---
+
+If you add a bunch of effect like so, you get the following result
 <img src="https://i.imgur.com/2AvKJrZ.png" alt="Example">
 <img src="https://i.imgur.com/aKZ9pFP.gif" alt="Example gif">
+
+---
 
 Or here an example of an `OnHit` feedback in <a href="https://wildwoods.itch.io/wildwoods">Wild Woods</a>
 
