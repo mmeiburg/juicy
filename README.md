@@ -1,6 +1,6 @@
 # Juicy
 
-As part of my master thesis `Juicy` was created a Unity tool to easily add Juicy to quickly prototype games.
+As part of my master thesis I created `Juicy` a Unity tool to easily add juice to quickly prototype games.
 
 ## Motivation
 
