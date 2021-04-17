@@ -33,7 +33,7 @@ To start with you just have to add `JuicyFeedback` as a field to your script.
 
 ---
 
-If you press the plus button a new feedback list get created
+If you press the plus button a new feedback list will be created.
 
 <img src="https://i.imgur.com/FMjuBxJ.png" alt="Feedback List">
 
