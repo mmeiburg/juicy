@@ -54,7 +54,7 @@ If you add a bunch of effect like so, you get the following result
 
 ---
 
-Or here an example of an `OnHit` feedback in <a href="https://wildwoods.itch.io/wildwoods">Wild Woods</a>
+Or here an example of an `OnHit` feedback in <a href="https://wildwoods.itch.io/wildwoods">Wild Woods</a> Here you can also see nicely the grass cutting particle effect is also created with the same system.
 
 ![bnYciEBS0g](https://user-images.githubusercontent.com/46827413/115109240-d98f4500-9f74-11eb-9543-250954730685.gif)
 
