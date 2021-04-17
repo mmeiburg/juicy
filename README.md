@@ -10,8 +10,7 @@ At that time, there was nothing comparable production-ready on the market. Howev
 
 ## How it works?
 
-The basics implementation is just a list of `MonoBehaviours` which are hidden on a `GameObject` and styled with some editor magic. Additionaly some effects are done by using <a href="http://dotween.demigiant.com/">DoTween</a> as a tweening libary.
-And my own pooling solution <a href="https://github.com/mmeiburg/unityPoolboy">PoolBoy</a>
+The basics implementation is just a list of `MonoBehaviours` which are hidden on a `GameObject` and styled with some editor magic. Additionaly some effects are done by using <a href="http://dotween.demigiant.com/">DoTween</a> as a tweening libary and my own pooling solution <a href="https://github.com/mmeiburg/unityPoolboy">PoolBoy</a>
 
 ---
 
