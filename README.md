@@ -10,7 +10,7 @@ At that time, there was nothing comparable production-ready on the market. Howev
 
 ## How it works?
 
-The basics implementation is just a list of `MonoBehaviours` which are hidden on a `GameObject` and styled with some editor magic. Additionaly some effects are done by using <a href="http://dotween.demigiant.com/">DoTween</a> as a tweening libary and my own pooling solution <a href="https://github.com/mmeiburg/unityPoolboy">PoolBoy</a>
+The basics implementation is just a list of `MonoBehaviours` which are hidden on a `GameObject` and styled with some editor magic. Additionaly some effects are done by using <a href="http://dotween.demigiant.com/">DoTween</a> as a tweening libary and my own pooling solution <a href="https://github.com/mmeiburg/unityPoolboy">PoolBoy</a>.
 
 ---
 
@@ -62,6 +62,22 @@ If you add a bunch of effect like so, you get the following result
 Or here an example of an `OnHit` feedback in <a href="https://wildwoods.itch.io/wildwoods">Wild Woods</a>. Here you can also see nicely the grass cutting particle effect created with the same system.
 
 ![bnYciEBS0g](https://user-images.githubusercontent.com/46827413/115109240-d98f4500-9f74-11eb-9543-250954730685.gif)
+
+But the best thing about this plugin is, that you can easily extent the system by creating your own effects. Just create a new class and inherit from `JuicyFeedbackBase` with the `[Feedback]` attribute that way you can change the menu path and name. Like in the following example:
+
+```cs
+    [Feedback("Debug/Log")]
+    public class DebugLogFeedback : JuicyFeedbackBase
+    {
+        [SerializeField] private LogType logType = LogType.Log;
+        [SerializeField] private string message;
+                
+        protected override void Play()
+        {
+            Debug.unityLogger.Log(logType, message);
+        }
+    }
+```
 
 ## Effect List
 
