@@ -5,7 +5,7 @@ As part of my master thesis `Juicy` was created a Unity tool to easily add Juicy
 ## Motivation
 
 The idea for Juicy came up during my studies when I saw the GDC talk <a href="https://www.youtube.com/watch?v=NU29QKag8a0">Best Practices for fast game design in Unity - Unite LA</a>. There Renaud Forestié described a tool they use internally.
-At that time, there was nothing comparable production-ready on the market. However, for our game Wild Woods we needed a good solution to add clean, efficient and extensible effects to the game.
+At that time, there was nothing comparable production-ready on the market. However, for our game <a href="https://wildwoods.itch.io/wildwoods">Wild Woods</a> we needed a good solution to add clean, efficient and extensible effects to the game.
 
 ## How it works?
 
