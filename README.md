@@ -94,7 +94,7 @@ Almost every effect comes with timing values, like duration, delay and cooldown 
 | Event Lifetime | Unity Events for the Unity lifecyles (Awake, Start ...)    |
 | Light Color | Change the light color |
 | Light Intensity | Change the light intensity |
-| Object Create | Creates a Object from a prefab  |
+| Object Create | Creates an object from a prefab  |
 | Object Fade | Changes the alpha value of an renderer |
 | Object Move | Moves an object  |
 | Object Punch | Punch an object scale to a value and back |
